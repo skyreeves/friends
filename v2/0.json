@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "shixiaocaia",
+      "url": "https://shixiaocaia.fun",
+      "avatar": "https://img.skyreeves.com/sites/shixiaocaia.jpg",
+      "screenshot": "https://img.skyreeves.com/sites/截屏2022-10-09-21.17.50.png",
+      "description": ""
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "https://img.skyreeves.cn/sites/截屏2022-10-28-17.53.23.png",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "screenshot": "https://pic.rmb.bdstatic.com/bjh/7bdfa8158ebc0a926f1ed6803f239f53.png",
+      "description": "记录生活，热爱跑步，学习 FPGA 中"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "Stellar开源主题大佬"
+    }
+  ]
+}
